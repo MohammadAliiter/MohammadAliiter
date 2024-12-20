@@ -83,9 +83,6 @@
 # 🚀 Featured Projects
 
 ---
-# 🚀 Featured Projects
-
----
 
 ## 🛒 [RushBaskets - E-Commerce Platform](https://github.com/MohammadAliiter/RushBaskets)
 
