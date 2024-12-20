@@ -83,47 +83,67 @@
 # 🚀 Featured Projects
 
 ---
+# 🚀 Featured Projects
+
+---
 
 ## 🛒 [RushBaskets - E-Commerce Platform](https://github.com/MohammadAliiter/RushBaskets)
 
-A **next-generation e-commerce platform** that combines cutting-edge technologies for **seamless user experiences** and **efficient product management**. Built using a **microservices architecture**, this platform offers real-time updates, secure transactions, and a scalable solution for modern e-commerce needs. **RushBaskets** includes a **Flutter app** for users, a **React web app** for customers, and an **advanced admin panel** with powerful management tools.
+An advanced **e-commerce platform** powered by **microservices** and **real-time communication** with **Socket.io**. **RushBaskets** offers a seamless experience across multiple platforms—**Flutter app** for mobile, **React web app** for customers, and a full-featured **admin panel** for product and order management.
 
-### 🌟 Key Highlights:
-- **Microservices Architecture**: Designed to ensure scalability and flexibility. Each service is isolated to handle specific tasks, enabling easy expansion and maintenance.
-- **Real-time Communication**: **Socket.io** powers instant updates, ensuring real-time data synchronization across the platform.
-- **Full-Stack Backend**: Built using **Node.js**, **Express**, and **MongoDB**, providing a robust and secure foundation for the platform's operations.
-- **Multi-Platform Integration**: 
-  - **Flutter App** for seamless mobile user experience.
-  - **React Web App** for customers to browse products, place orders, and make payments.
-  - **Admin Panel** for managing products, orders, users, and other key business processes.
-- **Advanced User & Admin Dashboards**:
-  - Admin panel features for **inventory management**, **order tracking**, and **user management**.
-  - User dashboard with **advanced search**, **personalized recommendations**, and **order history**.
-- **Delivery Management System**: A separate, fully integrated **delivery app** ensures smooth logistics, tracking, and delivery management.
+### 🌟 Key Features:
+- **Microservices Architecture** for scalability and flexibility
+- **Real-time Updates** via **Socket.io**
+- **Multi-Platform Integration** (Flutter, React)
+- **Advanced Admin Panel** for managing inventory, orders, and users
+- **User Dashboard** with advanced search, recommendations, and order history
+- **Secure Payment** via **PayPal** & **Stripe**
 
-### 💡 Technologies Used:
-- **Frontend**: **React** (Web) + **Flutter** (Mobile)
-- **Backend**: **Node.js**, **Express**, **MongoDB**
-- **Real-Time Communication**: **Socket.io**
-- **Architecture**: **Microservices**, **REST APIs**
-- **Authentication & Security**: **JWT**, **OAuth**
-- **Payment Integration**: **PayPal**, **Stripe** (for secure payment processing)
-  
----
-
-## 🚀 Why This Project Stands Out:
-**RushBaskets** is a highly scalable, advanced e-commerce platform designed to meet the dynamic needs of modern businesses. I led the development of the **backend**, including the implementation of **microservices**, and played a key role in building the **admin panel** in **React**, ensuring efficient product management and seamless user experience. 
-
-With a **real-time communication system** powered by **Socket.io**, **RushBaskets** enables instant updates, such as order status changes, new product arrivals, and promotions. This ensures that users and administrators are always in sync, enhancing the overall user experience.
-
-By integrating **Flutter** for the mobile app and **React** for the web app, the platform offers smooth, consistent experiences across all devices. Whether you're managing inventory in the admin panel or browsing products in the mobile app, the user experience is seamless and intuitive.
-
-**RushBaskets** is an example of my expertise in building **large-scale**, **secure**, and **highly interactive platforms** using modern technologies and methodologies. I’m excited to continue pushing the limits of e-commerce development and creating innovative solutions that drive business growth.
+### 💡 Tech Stack:
+- **Frontend**: React, Flutter
+- **Backend**: Node.js, Express, MongoDB
+- **Architecture**: Microservices, REST APIs
+- **Authentication**: JWT, OAuth
+- **Real-Time**: Socket.io
 
 ---
 
-Feel free to explore the codebase and see how I’ve used **modern tech stacks** and **best practices** to build this cutting-edge project.
+## 💼 [Codelutoo - Frontend Component Library](https://codelutoo.com)
 
+A platform providing **free frontend components** with **live previews** and **dynamic themes** to streamline web development. Built with **React**, **Tailwind CSS**, and **Node.js**, it empowers developers to quickly integrate reusable components.
+
+### 🌟 Features:
+- **Live Previews** for instant UI feedback
+- **Dynamic Theme Switching** with Tailwind CSS
+- **Easy-to-Use** components for faster development
+
+### 💡 Tech Stack:
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js
+
+---
+
+## 🎓 [School Management System](https://github.com/MohammadAliiter/SchoolManagement)
+
+A **comprehensive school management system** for managing student data, courses, and fees. Built using **Node.js**, **Express**, and **MongoDB**, this platform simplifies administrative tasks for schools.
+
+### 🌟 Key Features:
+- **User Roles**: Admin, Teacher, Student
+- **Course Management** and **Fee Tracking**
+- **Real-Time Updates** and **Dynamic Dashboards**
+
+### 💡 Tech Stack:
+- **Frontend**: React
+- **Backend**: Node.js, Express, MongoDB
+
+---
+
+### 🚀 Why These Projects Matter:
+Each of these projects reflects my expertise in **full-stack development** and **modern web technologies**. From building scalable, real-time platforms like **RushBaskets** to empowering developers with **Codelutoo**, I’m committed to creating innovative solutions that enhance user experiences and drive business success.
+
+---
+
+Feel free to explore the code and see how I leverage **advanced technologies** to build **next-gen applications**.
 
 ### 💡 Fun Fact
 🌟 I enjoy solving challenging problems and learning new tech to enhance my coding skills. please check make more and more attractive and good impression to the recruiter please make it more more fast work ok 
