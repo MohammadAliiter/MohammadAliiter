@@ -81,5 +81,21 @@
 
 ---
 
+
+### 🚀 Projects
+
+#### **[📘 Codelutoo Platform](https://codelutoo.com)**  
+A platform offering **free frontend components** with live previews and dynamic themes. Built with **React, Tailwind CSS, Node.js, and MongoDB**.
+
+#### **[💰 Expense Tracker & Budget Management System](https://github.com/MohammadAliiter/ExpenseTracker)**  
+Track expenses, set budgets, and analyze trends with real-time graphs. Powered by **React, Node.js, and MySQL**.
+
+#### **[🎓 Virtual Classroom Application](https://github.com/MohammadAliiter/VirtualClassroomApp)**  
+Manage classes, upload materials, and foster interactive discussions. Developed with **React, Node.js, Express, and MongoDB**.
+
+#### **[🖨️ Invoice Generator with QR Code](https://github.com/MohammadAliiter/InvoicewithQrcode)**  
+Generate and share professional invoices via WhatsApp, with **Next.js, Tailwind CSS, and QR Code Generator** integration.
+
+
 ### 💡 Fun Fact
 🌟 I enjoy solving challenging problems and learning new tech to enhance my coding skills. please check make more and more attractive and good impression to the recruiter please make it more more fast work ok 
