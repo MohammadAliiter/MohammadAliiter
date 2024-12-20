@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadaliiter&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammadaliiter&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -16,53 +16,42 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **Backend Development** and exploring **Advanced Frontend Frameworks**.
-- 🚀 I’m working on **[Codelutoo](https://codelutoo.com)**, a platform to provide free frontend components and templates.
-- 📫 Reach me at **iter.mohammad01@gmail.com**.
-- 🧑‍🏫 I’m interested in sharing my knowledge through **online programming tutoring**.
+### 🚀 About Me
+- 🌱 **Currently Learning**: Backend Development & Advanced Frontend Frameworks.
+- 🏗️ **Building**: [**Codelutoo**](https://codelutoo.com) – A platform for free frontend components and templates.
+- ✨ **Strengths**: Full-Stack Development, React Ecosystem, Problem-Solving, and Team Collaboration.
+- 🎯 **Goals**: Become a tech innovator by solving real-world problems with scalable solutions.
+- 📫 **Contact Me**: iter.mohammad01@gmail.com | [LinkedIn](https://linkedin.com/in/m-ali09)
+- 🧑‍🏫 **Hobbies**: Sharing knowledge through online programming tutorials and mentoring.
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/m-ali09" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/c/webxlearner" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:iter.mohammad01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap,js,ts,redux,html,css,mysql,java,postman,github" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammadaliiter&theme=onedark&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mohammadaliiter&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -70,16 +59,24 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadaliiter&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaliiter&theme=radical" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaliiter&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadaliiter&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaliiter&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaliiter&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
+### 🌟 Projects
+- **[Codelutoo](https://codelutoo.com)**: Free frontend components & templates for developers.
+- **Expense Tracker**: A budget management tool using React, Node.js, and MongoDB.
+- **Invoice Generator**: A responsive Next.js project with advanced UI and Tailwind CSS.
+
+---
+
 ### 💡 Fun Fact
-🌟 I enjoy solving challenging problems and learning new tech to enhance my coding skills.
+🌟 I enjoy solving challenging problems and always strive to improve my coding skills by experimenting with cutting-edge tech.
+
+---
+
+### 🤝 Let's Collaborate!
+Looking for opportunities to work on exciting projects or join innovative teams. Feel free to reach out!
