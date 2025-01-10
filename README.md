@@ -63,7 +63,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mohammadaliiter&theme=onedark&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
-[
+
 
 
 ### 📊 GitHub Stats
