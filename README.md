@@ -71,13 +71,8 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadaliiter&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-### 📊 GitHub Stats
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadaliiter&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
+</p
+  
 <p align="center">
   <!-- GitHub Streak Stats (Fixed) -->
   <a href="https://github.com/mohammadaliiter">
