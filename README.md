@@ -82,7 +82,7 @@
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaliiter&layout=compact&theme=radical" alt="Top Languages" />
-</p>](https://github-readme-streak-stats-omega-olive.vercel.app/demo/)
+</p>
 
 ---
 # 🚀 Featured Projects
