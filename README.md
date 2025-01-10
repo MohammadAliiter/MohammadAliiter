@@ -67,17 +67,21 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadaliiter&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
+  <!-- GitHub Streak Stats (Fixed) -->
   <a href="https://github.com/mohammadaliiter">
-    <img src="https://streak-stats.demolab.com?user=mohammadaliiter&theme=radical" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaliiter&theme=radical" alt="GitHub Streak Stats" />
   </a>
 </p>
+
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaliiter&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
