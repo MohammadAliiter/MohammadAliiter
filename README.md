@@ -70,14 +70,20 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadaliiter&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p
-  
+</p>
+
 <p align="center">
-  <!-- GitHub Streak Stats (Fixed) -->
-  <a href="https://github.com/mohammadaliiter">
-    <img src="[https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats-omega-olive.vercel.app/demo/)/?user=mohammadaliiter&theme=radical" alt="GitHub Streak Stats" />
+  <!-- GitHub Streak Stats (Markdown Version) -->
+  [![GitHub Streak](https://github-readme-streak-stats-omega-olive.vercel.app?user=MohammadAliiter&theme=radical)](https://git.io/streak-stats)
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats (HTML Version) -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-omega-olive.vercel.app?user=MohammadAliiter&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
+
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaliiter&layout=compact&theme=radical" alt="Top Languages" />
