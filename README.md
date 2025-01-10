@@ -57,8 +57,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -66,7 +64,8 @@
   </a>
 </p>
 [
----
+
+
 ### 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats -->
