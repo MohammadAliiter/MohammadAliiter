@@ -65,7 +65,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mohammadaliiter&theme=onedark&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
-
+[
 ---
 ### 📊 GitHub Stats
 <p align="center">
@@ -82,7 +82,7 @@
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaliiter&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p>](https://github-readme-streak-stats-omega-olive.vercel.app/demo/)
 
 ---
 # 🚀 Featured Projects
