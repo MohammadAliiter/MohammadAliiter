@@ -72,10 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadaliiter&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak Stats (Markdown Version) -->
-  [![GitHub Streak](https://github-readme-streak-stats-omega-olive.vercel.app?user=MohammadAliiter&theme=radical)](https://git.io/streak-stats)
-</p>
 
 <p align="center">
   <!-- GitHub Streak Stats (HTML Version) -->
