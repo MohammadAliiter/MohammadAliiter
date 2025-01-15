@@ -149,4 +149,4 @@ Each of these projects reflects my expertise in **full-stack development** and *
 Feel free to explore the code and see how I leverage **advanced technologies** to build **next-gen applications**.
 
 ### 💡 Fun Fact
-🌟 I enjoy solving challenging problems and learning new tech to enhance my coding skills. please check make more and more attractive and good impression to the recruiter please make it more more fast work ok 
+🌟 I enjoy solving challenging problems and learning new tech to enhance my coding skills. please check make more and more attractive and good impression to the recruiter please make it more more fast work.
