@@ -73,7 +73,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadaliiter&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadaliiter&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 
